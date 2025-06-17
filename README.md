@@ -76,9 +76,8 @@ Fiziksel tahta üzerinden dijital analiz yapmak
 
 Yapay zekâ destekli eğitim ortamı sunmak
 
-📷 Görseller (Ekran Görüntüleri)
-(Buraya GUI'den alınacak bir ekran görüntüsü ekleyebilirsiniz.)
-
+📷 Görseller 
+![test](https://github.com/user-attachments/assets/14f046b5-fe28-4df8-9274-635727a42714)
 
 
 📌 Geliştirici: Aslı Cennet ERCAN
